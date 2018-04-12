@@ -1,7 +1,7 @@
 <details> 
 <summary> click me </summary> 
 
-```
+```c
 #include <stdio.h>
 int main()
 {
