@@ -1,6 +1,5 @@
 <details> 
 <summary> click me </summary> 
-<details> 
 
 ```
 #include <stdio.h>
@@ -11,3 +10,5 @@ int main()
    return 0;
 }
 ```
+
+</details>
